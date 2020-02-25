@@ -22,7 +22,10 @@
 ### Gradle ###
 .gradle
 build/
+gradle
 
 ### Idea ###
 .idea
+
+
 
