@@ -9,6 +9,6 @@ and return count of how many times the same word is added in any language.
  best performance.  
  
  ```
- Note : Java 8 features,  Streams & Optional degrades the performance with high volumes of word added.
+ Note : Java 8 features,  Streams & Optional degrades the performance with high volumes of words added.
  Also regex degrades performance though it is precompiled. Hence not used in here.
 ```
